@@ -1,0 +1,2 @@
+# My-mini-torrent---P2P-file-sharing-system
+Peer 2 Peer file sharing program (like mini torrent) where one peer can download single from file from single as well as multiple sources without any need of servers. In this project key technologies used are Socket and Network programming, Muti-Threading, Peer-to-Peer file sharing, Linux Server Programming, Piece-Selection Algorithm for file sharing, OpenSSL library for SHA1 encoding of the file and for connection establishment is a TCP protocol is used.
